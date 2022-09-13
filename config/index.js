@@ -105,7 +105,7 @@ export const config = {
       // 一般都填自己
       name: "朵",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oaoI-5jGvbI4ZZIIjzuFOxrIr6bI",
       id: "oaoI-5jGvbI4ZZIIjzuFOxrIr6bI",
     },
     // 你可以不断按格式往下增加
@@ -116,10 +116,10 @@ export const config = {
    */
   /** 天气相关 */
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广东",
+  PROVINCE: "山西",
   PROVINCE: "山西",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "惠州",
+  CITY: "临汾",
   CITY: "临汾",
   /** 重要节日相关 */
 
